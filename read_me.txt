@@ -5,6 +5,6 @@ I have done a folder to follow
 2. All charts will be in @/components/Charts/
 3. All tables will be in @/components/Tables
 4. Else in @/components/Others/{your name}
-
+4. Delete all hey.txt in all files
 
 Happy hacking !!!!
